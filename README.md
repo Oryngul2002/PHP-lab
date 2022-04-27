@@ -14,6 +14,7 @@ E-mail: <input type="text" name="email"><br>
   <input type="radio" name="gender" value="other">Other
   <br><br>
  echo  "<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Flifehacker.ru%2Fspecial%2Ffujifilm%2Fugaday-chto-na-foto%2F&psig=AOvVaw2SIzJMKNpAq7mHdnmgGqGc&ust=1651137395237000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLjc0qH0s_cCFQAAAAAdAAAAABAJ'>"
+  echo <'Oryngul,Aruzhan,Aida'>
 </form>
 <?php
 echo "<h2>Your Input:</h2>";
